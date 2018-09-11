@@ -13,5 +13,8 @@ public class Main {
         System.out.print("Sorted: ");
         now.display1D(arr);
 
+        InsertionSort ins = new InsertionSort();
+        ins.insertionSort(arr);
+
     }
 }
