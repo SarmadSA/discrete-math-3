@@ -1,3 +1,6 @@
+/**
+ * Represents bogo-sort algorithm, which is a stupid sort algorithm.
+ */
 public class BogoSort
 {
     void bogo(int[] arr)
